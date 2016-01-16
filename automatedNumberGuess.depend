@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452983594 source:c:\users\thene\google drive\programming\cpp\automatednumberguess\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
